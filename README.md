@@ -6,3 +6,4 @@ Set of useful classes for AVR platform. It's a part of my old AVR project (LCD d
 * Real-time clock: DS3231 I2C
 * Temperature sensor: DS18B20
 * UART
+* Timer
